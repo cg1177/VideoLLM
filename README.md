@@ -9,7 +9,7 @@ $\texttt{\textbf{VideoLLM}}$ incorporates a carefully designed Modality Encoder 
 To evaluate the efficacy of $\texttt{\textbf{VideoLLM}}$, we conduct extensive experiments using multiple LLMs and fine-tuning methods. We evaluate our $\texttt{\textbf{VideoLLM}}$ on eight tasks sourced from four different datasets. The experimental results demonstrate that the understanding and reasoning capabilities of LLMs can be effectively transferred to video understanding tasks.
 
 ## 🏠 Overview
-![intro_white_cut](https://github.com/cg1177/VideoLLM/assets/95628472/1a8c4ca7-d11f-4425-b8f7-4a9394134a0f)
+![intro_white_cut](https://github.com/cg1177/VideoLLM/assets/95628472/5bcc0dbc-254d-4bf9-b884-b7034a6e0286)
 
 
 ## 🎫 License
