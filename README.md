@@ -1,5 +1,5 @@
 # VideoLLM
-Preprint: [VideoLLM: Modeling Video Sequence with Large Language Models](www.baidu.com)
+Preprint: [VideoLLM: Modeling Video Sequence with Large Language Models]()
 
 
 
