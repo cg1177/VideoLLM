@@ -21,3 +21,11 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 If you find this project useful in your research, please consider cite:
 
+```BibTeX
+@misc{2023videollm,
+    title={VideoLLM: Modeling Video Sequence with Large Language Models},
+    author={Guo Chen, Yin-Dong Zheng, Jiahao Wang, Jilan Xu, Yifei Huang, Junting Pan, Yi Wang, Yali Wang, Yu Qiao, Tong Lu and Limin Wang},
+    howpublished = {\url{https://arxiv.org/abs/2305.13292)},
+    year={2023}
+}
+```
