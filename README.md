@@ -8,6 +8,9 @@ The success of large language models (LLMs) like GPT has demonstrated their impr
 $\texttt{\textbf{VideoLLM}}$ incorporates a carefully designed Modality Encoder and Semantic Translator, which convert inputs from various modalities into a unified token sequence. This token sequence is then fed into a decoder-only LLM. Subsequently, with the aid of a simple task head, our $\texttt{\textbf{VideoLLM}}$ yields an effective unified framework for different kinds of video understanding tasks.
 To evaluate the efficacy of $\texttt{\textbf{VideoLLM}}$, we conduct extensive experiments using multiple LLMs and fine-tuning methods. We evaluate our $\texttt{\textbf{VideoLLM}}$ on eight tasks sourced from four different datasets. The experimental results demonstrate that the understanding and reasoning capabilities of LLMs can be effectively transferred to video understanding tasks.
 
+## 🗓️ Schedule
+- [ ] Release code and models
+
 ## 🏠 Overview
 ![intro_white_cut](https://github.com/cg1177/VideoLLM/assets/95628472/5bcc0dbc-254d-4bf9-b884-b7034a6e0286)
 
